@@ -1,6 +1,4 @@
 
-
-
 const array3 = [3, 5, 9 ,10, 9,11];
 const array4 = [4, 2, 7, 6, 8,3];
 const array5 = [8, 6, 9, 2, 10, 3]; 
